@@ -13,7 +13,9 @@
 
 ### Competitive Programming 💻
 
-- AtCoder(Algorithm) : 1261(Highest @May, 8, 2022 ), https://atcoder.jp/users/aiutarsi
+- AtCoder(Algorithm) : 1261(Highest @May, 8, 2022 )
+
+  https://atcoder.jp/users/aiutarsi
 
 ### Contact 📩
 
