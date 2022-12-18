@@ -1,4 +1,4 @@
-### Thank your for your visiting! 😀
+<!-- ### Thank your for your visiting! 😀
 
 ### About Me 🧑🏻‍💻
 
@@ -22,3 +22,4 @@
 ### Blog 🖥
 
 - https://aiutarsi.hatenablog.com/ 
+ -->
